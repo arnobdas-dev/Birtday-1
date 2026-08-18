@@ -1,0 +1,6 @@
+{
+  "name": "Birthday Surprise for Puja",
+  "description": "An interactive, romantic, and playful birthday surprise website with story chapters, mini-game, love letter, and celebration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
